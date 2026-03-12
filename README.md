@@ -1,14 +1,14 @@
-# 🎓 KTÜN OBS Not Takip & Telegram Bildirim Botu
+#  KTÜN OBS Not Takip & Telegram Bildirim Botu
 
 Bu proje, **Konya Teknik Üniversitesi (KTÜN)** öğrencilerinin notlarını otomatik takip eden bir Python botudur.
 
-## 🛠️ Temel Özellikler
+##  Temel Özellikler
 
 * **Otomatik Giriş:** Şifrelerinizi güvenle kullanır.
 * **Anlık Bildirim:** Not girildiğinde Telegram'dan mesaj atar.
 * **Veritabanı:** Notları hafızasında tutar, sadece yenileri haber verir.
 
-## 🚀 Kurulum
+##  Kurulum
 
 ### 1. Gereksinimler
 
@@ -33,7 +33,7 @@ TELEGRAM_TOKEN=bot_tokeniniz
 TELEGRAM_CHAT_ID=chat_id_numaraniz
 ```
 
-## 💻 Kullanım
+##  Kullanım
 
 Botu başlatmak için:
 
@@ -41,7 +41,7 @@ Botu başlatmak için:
 python not_takip_botu.py
 ```
 
-## 📁 Dosya Yapısı
+##  Dosya Yapısı
 
 * `not_takip_botu.py` : Ana Kod
 * `.env.example` : Ayar Şablonu
