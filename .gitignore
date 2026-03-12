@@ -1,0 +1,13 @@
+# Özel Bilgiler (Kesinlikle yüklenmez)
+.env
+
+# Veritabanı ve Loglar (Kişisel veri içerir)
+notlar.db
+bot_log.txt
+
+# Python Gereksizleri
+__pycache__/
+*.pyc
+
+# IDE Ayarları
+.vscode/
